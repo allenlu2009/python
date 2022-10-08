@@ -4,3 +4,4 @@
 *.db
 *~
 *.html
+.vscode
